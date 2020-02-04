@@ -1,0 +1,16 @@
+{
+  "name": "signature-generator-api",
+  "version": "1.0.0",
+  "description": "ML Signature Generator",
+  "main": "Signature.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Mark Asimudin",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2"
+  }
+}
